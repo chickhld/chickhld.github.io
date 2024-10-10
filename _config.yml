@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "plum"#"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Data Navigator"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daryl Chick"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Daryl Chick"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an Software Engineer interested in Data Analysis and Fintech"
   location         : "Sydney"
   email            :
   links:
