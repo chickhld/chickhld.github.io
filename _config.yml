@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Daryl Chick"
   avatar           : "/assets/images/ship.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Software Engineer interested in Data Analysis and Fintech."
+  bio              : "I am a Software Engineer interested in Data Analysis and Fintech."
   location         : "Sydney, Australia"
   email            :
   links:
